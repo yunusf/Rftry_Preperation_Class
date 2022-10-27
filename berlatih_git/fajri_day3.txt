@@ -1,5 +1,9 @@
 Nama	: Yunus Fajri
 Stack	: BackEnd
+<<<<<<< HEAD
 Branch	: Main
 
 a. tambahan line di main
+=======
+Branch	: SesiSore
+>>>>>>> sesiSore
